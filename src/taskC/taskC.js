@@ -1,4 +1,4 @@
-let num1 = 1;
+let num1 = 2;
 let num2 = 20;
 
 let num3 = ride(num1, num2);
