@@ -1,4 +1,4 @@
-let yingyu = "English";
+let yingyu = "English1";
 let shuxue = "Math";
 let yuwen = "Chinese1";
 
