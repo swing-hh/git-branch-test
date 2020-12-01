@@ -5,7 +5,7 @@ let num3 = ride(num1, num2);
 
 let num4 = ride(num3, num2);
 
-let num5 = ride(num4, num3);
+let num5 = ride(num4, num1);
 
 function ride(num1, num2) {
   return num1 * num2;
