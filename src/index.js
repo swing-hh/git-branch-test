@@ -35,6 +35,10 @@ let taskArr = [
   {
     name: 'taskB',
     main: './taskB.js'
+  },
+  {
+    name: 'taskA',
+    main: './taskA.js'
   }
 ]
 
