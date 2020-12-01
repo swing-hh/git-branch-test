@@ -1,6 +1,6 @@
 let yingyu = "English";
 let shuxue = "Math";
-let yuwen = "Chinese";
+let yuwen = "Chinese1";
 
 let subjectArr = [yingyu, shuxue, yuwen];
 
