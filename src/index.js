@@ -17,7 +17,7 @@ obj1.prototype.getAge = function () {
 
 let taskArr = [
   {
-    name: 'siwei',
+    name: 'siwei1',
     main: './siwei.js'
   },
   {
