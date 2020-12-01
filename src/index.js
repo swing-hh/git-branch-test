@@ -21,7 +21,7 @@ let taskArr = [
     main: './siwei.js'
   },
   {
-    name: 'yingyu',
+    name: 'yingyu1',
     main: './yingyu.js'
   },
   {
